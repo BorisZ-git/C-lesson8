@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Main>
+  <User id="1">
+    <Fname>Name 1</Fname>
+    <Lname>SecondName1</Lname>
+  </User>
+  <User id="2">
+    <Fname>Name 2</Fname>
+    <Lname>SecondName2</Lname>
+  </User>
+  <User id="3">
+    <Fname>Name 3</Fname>
+    <Lname>SecondName3</Lname>
+  </User>
+  <User id="4">
+    <Fname>Name 4</Fname>
+    <Lname>SecondName4</Lname>
+  </User>
+  <User id="5">
+    <Fname>Name 5</Fname>
+    <Lname>SecondName5</Lname>
+  </User>
+</Main>
