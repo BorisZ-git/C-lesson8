@@ -1,23 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Main>
-  <User id="1">
-    <Fname>Name 1</Fname>
-    <Lname>SecondName1</Lname>
-  </User>
-  <User id="2">
-    <Fname>Name 2</Fname>
-    <Lname>SecondName2</Lname>
-  </User>
-  <User id="3">
-    <Fname>Name 3</Fname>
-    <Lname>SecondName3</Lname>
-  </User>
-  <User id="4">
-    <Fname>Name 4</Fname>
-    <Lname>SecondName4</Lname>
-  </User>
-  <User id="5">
-    <Fname>Name 5</Fname>
-    <Lname>SecondName5</Lname>
-  </User>
-</Main>
+<State>
+  <Employer id="1" name="Name1" position="Position1" salary="30000" />
+  <Employer id="2" name="Name2" position="Position2" salary="20000" />
+  <Employer id="3" name="Name3" position="Position3" salary="10000" />
+  <Employer id="4" name="Name4" position="Position4" salary="35000" />
+  <Employer id="5" name="Name5" position="Position5" salary="50000" />
+</State>
